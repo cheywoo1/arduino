@@ -8,4 +8,4 @@ unsigned long monitoringInterval = 15000;
 unsigned long moistureThreshold = 700;
 unsigned long overflowThreshold = 800;
 unsigned long reservoirThreshold = 1;
-unsigned long maxWaterTime = 5000;
+unsigned long maxWaterTime = 4000;
