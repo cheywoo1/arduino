@@ -67,7 +67,7 @@ void logInitialization() {
   log("Soil Moisture Threshold: > " + String(moistureThreshold));
   log("Overflow Threshold: > " + String(overflowThreshold));
   log("Reservoir Threshold: " + String(reservoirThreshold));
-  log("Logging: " + (String((logging ? "true" : "false"))));
+  log("Logging : " + (String((logging ? "true" : "false"))));
   log("Run pump: " + (String((runWithPumpOn ? "true" : "false"))));
 }
 void log(String message) {
